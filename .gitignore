@@ -1,0 +1,5 @@
+# ignore the authentification file
+auth.py
+
+# ignore the python cache
+__pycache__/
