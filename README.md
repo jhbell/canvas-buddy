@@ -18,3 +18,7 @@ Change the `_ROOT_URL` in canvas.py to match your canvas subdomain. (Optional, u
 
 * Step 5:
 Fire 'er up and check out your grades!
+
+## Requirements
+* Working version of python 3.5 `$ brew install python3`
+* The python requests library `$ pip3.5 install requests`
